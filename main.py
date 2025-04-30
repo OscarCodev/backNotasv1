@@ -4,7 +4,7 @@ from typing import List, Optional
 from datetime import datetime
 
 app = FastAPI(
-    title="Notes API",
+    title="Api de notas UNSCH",
     description="A simple API for managing notes",
     version="1.0.0"
 )
